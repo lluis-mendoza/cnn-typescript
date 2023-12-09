@@ -6,7 +6,10 @@ This project implements a Convolutional Neural Network (CNN) from scratch in Typ
 
 To validate and demonstrate the functionality of the implemented CNN, it has undergone training using the widely recognized [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset). The MNIST Dataset serves as a benchmark for image classification tasks, particularly for recognizing hand-written digits. 
 
-![image info](./images/example.png)
+<p align="center">
+  <img src="./images/example.gif" alt="Your image title" width="700"/>
+</p>
+
 ## Features
 
 - **Convolutional Layers:** The network includes convolutional layers to automatically learn hierarchical representations of the input data.
