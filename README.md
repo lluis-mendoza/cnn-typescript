@@ -64,7 +64,7 @@ cd cnn-typescript
 npm install
 ```
 
-###Usage
+### Usage
 ```bash
 # Run the example
 npm run dev
